@@ -28,7 +28,7 @@ _**Nepal Cricket Club Ry - E8848** invites all cricket team in Finland for their
 - The top 4 teams from 4 different groups determined by the CricHQ Scoring Application progress to semifinals. 
 - Please submit your player's name and officials by 30th June 2017 provided that you have registered for the tournament and have paid the entry fee.
 
-##E8848 T20 Premier League Prizes - 2017
+## E8848 T20 Premier League Prizes - 2017
 - **Winner**: Trophy & Medals + €250
 - **Runner up**: Trophy & Medals + €100
 - **Everest Pride**: Most Valuable Player (Trophy)
