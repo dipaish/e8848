@@ -14,12 +14,12 @@ _**Nepal Cricket Club Ry - E8848** invites all cricket team in Finland for their
 - 15 medals will be distributed to the Winner and Runner up.
 ## Entry Fee Payment Method 
 ### The entry fee ( **€250** ) must be paid to the club’s account by **30th June 2017** using the information as mentioned below:
-`Amount: €250
+Amount: €250
 Account name: Nepal Cricket Club ry
 Account number: FI87 1745 3000 1791 03
 Reference number: 3405
-Bank: Nordea Bank, Finland`
->
+Bank: Nordea Bank, Finland
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
