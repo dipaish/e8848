@@ -16,8 +16,8 @@ _**Nepal Cricket Club Ry - E8848** invites all cricket team in Finland for their
 **The entry fee ( **€250** ) must be paid to the club’s account by **30th June 2017** using the information as mentioned below:**
     
    `Amount: €250`<br>
-      `**Account name: Nepal Cricket Club ry**` 
-      `**Account number: FI87 1745 3000 1791 03**` 
-      `**Reference number: 3405**` 
-       `**Bank: Nordea Bank, Finland**`
+      `Account name: Nepal Cricket Club ry` <br>
+      `Account number: FI87 1745 3000 1791 03`<br>
+      `Reference number: 3405` <br>
+       `Bank: Nordea Bank, Finland`<br>
  
