@@ -1,8 +1,6 @@
 ## E8848 T20 Premier League - 2017
 
-You can use the [editor on GitHub](https://github.com/dipaish/e8848/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+** Nepal Cricket Club Ry - E8848 invites all cricket team in Finland for their participation in the first edition of E8848 T20 Premier League. The tournament includes league stage where each team will compete with two other teams in a group of 3 teams. The tournament is played with a hard tennis ball. The best 4 teams from the league stage proceed to the knockout stage. Registration is solely based on first come first service. We can accommodate only 12 teams. **
 
 ### Markdown
 
