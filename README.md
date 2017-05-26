@@ -40,3 +40,29 @@ _**Nepal Cricket Club Ry - E8848** invites all cricket team in Finland for their
 - **Everest Saviour**: Best wicket keeper (Trophy)
 - **Man of the Match** in every game: Trophy 
 - **Most Economical Bowler** : Trophy
+
+## E8848 T20 Premier League - 2017 Rules
+- Bowlers are allowed to bowl a maximum of 3 overs. 
+- Umpire decision is the last decision. Discussions with umpire are strictly prohibited. 
+- The rules of LBW apply with an exception that is the first LBW case is given as 1st Warning while the second case makes the batsman out.
+- The standard cricketing rules are applied.
+- Under disputes or on any misconduct, organizing committee decision is the last decision
+- The ball that is pitched outside of the mat is deemed as a no ball and costs 1 runs. Free hit does not apply when a ball is pitched outside the mat.
+- Players are strictly forbidden to smoke during an inning break. If you want to smoke please be at-least 100 meters away from the boundary line.
+- Discipline and sporting spirit are highly practiced throughout the tournament. In case of an improper aggression or misconduct, a first warning is issued by the on-field umpires while the second instance of similar mis-conduct will result in awarding 5 runs to the opponent team. **Serious mis-conduct might result in awarding 5 runs without a warning by on-field umpires.**
+- Jerk bowling is strictly prohibited. Batsman is allowed to complain jerk bowling. After receiving the complain, the umpire panel and the on-field umpires will decide and deem it a legal or illegal delivery. The first identified jerk ball is deemed as a no ball while the second identified jerk will forfeit the bowler from bowling through out the tournament. Another bowler has to complete the over in question.
+>Note: If weather or any other factor interrupts the tournament, it will be shifted to another viable day.
+E8848 T20 Premier League - 2017 Scoring Methods
+- Scoring is done via a third party application CRICHQ
+- Awards, Net run rate, Most valuable player , Man of the Match etc are analyzed automatically by the app and will be the sole method for deciding qualifying teams and awards.
+- The scorecard, match details and prize distribution ceremony are made available in the event official web page www.cric8848.com
+
+## In case you need any help or more information for registration 
+please feel free to contact the following officials.
+- Krishna Chhetri (everest8848cc@gmail.com) 
+- Arun Basnet 0442718515
+- Sachindra Rimal 0442721547
+- Deepak Pokharel
+- Bibek Dhakal
+- Shekhar Aryal
+- Deepak KC 0442784055
