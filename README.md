@@ -1,4 +1,4 @@
-<p align="center"><img src="http://1.bp.blogspot.com/-Z1eiy_mkzRQ/VobG9X5nWKI/AAAAAAAACmE/KJq4Si_XmSg/s1600-r/everestcricketlogo.jpg </p>
+<p align="center"><img src="http://1.bp.blogspot.com/-Z1eiy_mkzRQ/VobG9X5nWKI/AAAAAAAACmE/KJq4Si_XmSg/s1600-r/everestcricketlogo.jpg </p> 
 ## E8848 T20 Premier League - 2017
 _**Nepal Cricket Club Ry - E8848** invites all cricket team in Finland for their participation in the **first edition of E8848 T20 Premier League**. The tournament includes **league stage** where each team will compete with two other teams in a group of 3 teams. The tournament is played with a hard tennis ball. The **best 4 teams** from the league stage proceed to the knockout stage. Registration is solely based on first come first service. We can accommodate only **12 teams**._ 
 
