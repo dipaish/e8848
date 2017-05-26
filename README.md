@@ -19,3 +19,11 @@ _**Nepal Cricket Club Ry - E8848** invites all cricket team in Finland for their
 #### Account number: FI87 1745 3000 1791 03
 #### Reference number: 3405
 #### Bank: Nordea Bank, Finland
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
