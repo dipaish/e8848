@@ -57,7 +57,8 @@ E8848 T20 Premier League - 2017 Scoring Methods
 - Awards, Net run rate, Most valuable player , Man of the Match etc are analyzed automatically by the app and will be the sole method for deciding qualifying teams and awards.
 - The scorecard, match details and prize distribution ceremony are made available in the event official web page www.cric8848.com
 
-##Preliminary Tiesheet
+## Preliminary Tiesheet
+
 ![alt text](https://raw.githubusercontent.com/dipaish/e8848/master/Capture.PNG)
 ## In case you need any help or more information for registration 
 please feel free to contact the following officials.
